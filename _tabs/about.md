@@ -4,9 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Hi I'm Alfonce Kipkemoi Ngetich, an Ethical Hacker and A Fullstack Developer {: .filepath }
+> Hi I'm Alfonce Kipkemoi Ngetich, an Ethical Hacker and A Fullstack Developer
 > Skilled in Ethical Hacking And Software Engineering
 > Passionate about pentesting
 > Building websites and testing for the vulnerabilities.
 > Exploring Ai
-{: .prompt-tip }
