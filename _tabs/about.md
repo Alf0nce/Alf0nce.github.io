@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Hi I'm "Alfonce Kipkemoi Ngetich", an Ethical Hacker and A Fullstack Developer `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Skilled in Ethical Hacking And Software Engineering
+> Passionate about pentesting
+> Building websites and testing for the vulnerabilities.
+> Exploring Ai
 {: .prompt-tip }
