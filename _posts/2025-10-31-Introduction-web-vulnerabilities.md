@@ -1,7 +1,7 @@
 ---
 title: "Introduction to web vulnerabilities"
 date: 2025-10-31 07:10:37 +0300
-Categories: [Cybersecurity, Web]
+categories: [Cybersecurity, Web]
 tags: [xss, sql-injection,csrf]
 ---
 
